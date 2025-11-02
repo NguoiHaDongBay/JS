@@ -1,6 +1,6 @@
 const tinh=(x,n)=>{
     let tong=0
-    let mau=0
+    let mau=1
     for(let i=1;i<=n;i++){
         mau *=i
         tong +=(x**(i))/mau
