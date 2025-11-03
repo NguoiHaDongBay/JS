@@ -1,6 +1,6 @@
 const uoc=(n)=>{
     const uocso=[]
-    let tong=0
+    let tong=1
     for(let i=1;i<=n;i++){
         if(n%i===0){
             tong *=i

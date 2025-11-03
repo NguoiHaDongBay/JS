@@ -14,6 +14,5 @@ const uoc=(n)=>{
             console.log("KO hoàn hảo");
             
         }
-    return tong
 }
 console.log(uoc(6));
